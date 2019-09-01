@@ -1,0 +1,41 @@
+nav {
+	background-color: yellow;
+	height: 1.2rem;
+}
+
+.nav--list > li {
+	display: inline;
+}
+
+.nav-link {
+	color: purple
+	text-decoration: none;
+	border: 0.2rem dashed black;
+	border-radius: 1rem;
+	padding: 0.5rem;
+	margin: 4rem;
+}
+
+..about {
+	display: inline;
+}
+
+.mickey {
+	padding: 0.5rem;
+}
+
+h1 {
+	border: 1px solid gray;
+	border-radius: 0.3rem;
+	text-align: center
+}
+
+.social--links__items > li {
+	display: inline;
+	list-style: none;
+	margin: 3rem;
+}
+
+.social--links__items > li > a {
+	color: red;
+}
