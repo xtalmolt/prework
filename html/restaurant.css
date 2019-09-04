@@ -1,0 +1,45 @@
+.nav--list > li {
+    color: red;
+    display: inline;
+    background-color: black;
+	text-decoration: none;
+	border: 0.2rem solid red;
+	border-radius: 1rem;
+	padding: 0.5rem;
+	margin: 4rem;
+}
+
+.nav--list > li > a {
+    color: red;
+}
+
+h1 {
+    color: red;
+    font-size: 5pc;
+	border: 1px solid gray;
+	border-radius: 0.3rem;
+	text-align: center
+}
+
+.item--name {
+    font-style: italic;
+}
+
+.menu--items {
+    list-style: none;
+}
+
+.social--links__items > li {
+    color: red;
+    display: inline;
+    background-color: black;
+	text-decoration: none;
+	border: 0.2rem solid red;
+	border-radius: 1rem;
+	padding: 0.5rem;
+	margin: 4rem;
+}
+
+.social--links__items > li > a {
+	color: red;
+}
